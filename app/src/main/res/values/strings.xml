@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Life Counter</string>
+    <string name="plus_one">+</string>
+    <string name="plus_five">+5</string>
+    <string name="minus_one">-</string>
+    <string name="minus_five">-5</string>
+    <string name="tag1">1</string>
+    <string name="tag2">2</string>
+    <string name="tag3">3</string>
+    <string name="tag4">4</string>
+    <string name="tag1plus">1plus1</string>
+    <string name="tag1plus5">1plus5</string>
+    <string name="tag1minus">1minus1</string>
+    <string name="tag1minus5">1minus5</string>
+    <string name="tag2plus">2plus1</string>
+    <string name="tag2plus5">2plus5</string>
+    <string name="tag2minus">2minus1</string>
+    <string name="tag2minus5">2minus5</string>
+    <string name="tag3plus">3plus1</string>
+    <string name="tag3plus5">3plus5</string>
+    <string name="tag3minus">3minus1</string>
+    <string name="tag3minus5">3minus5</string>
+    <string name="tag4plus">4plus1</string>
+    <string name="tag4plus5">4plus5</string>
+    <string name="tag4minus">4minus1</string>
+    <string name="tag4minus5">4minus5</string>
+</resources>
